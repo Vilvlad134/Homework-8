@@ -1,0 +1,2040 @@
+Question # 1: Why is installing packages with poetry extremely slow in a Docker container on M1 Macbook?
+Tags: ['python', 'docker', 'apple-m1', 'python-poetry']
+ Creation Date 2022-09-07 13:31:21
+____________________________________
+Question # 2: how set a word limit in paragraph&#39;s sentences in python?
+Tags: ['python', 'list', 'split', 'slice']
+ Creation Date 2022-09-07 13:31:58
+____________________________________
+Question # 3: SQL Alchemy spending too much time in preparing the query
+Tags: ['python', 'sqlalchemy']
+ Creation Date 2022-09-07 13:32:47
+____________________________________
+Question # 4: Running async code on demand from @property
+Tags: ['python', 'python-3.x', 'properties', 'python-asyncio']
+ Creation Date 2022-09-07 13:32:51
+____________________________________
+Question # 5: Plotly histogram drop down button
+Tags: ['python', 'drop-down-menu', 'plotly', 'histogram']
+ Creation Date 2022-09-07 13:33:14
+____________________________________
+Question # 6: Read specific ID&#39;s from a large file with Python
+Tags: ['python', 'pandas', 'linux', 'unix']
+ Creation Date 2022-09-07 13:35:01
+____________________________________
+Question # 7: match o file but incompatible architecture
+Tags: ['python', 'django']
+ Creation Date 2022-09-07 13:36:09
+____________________________________
+Question # 8: Is there a clean way to extract a row and drop it from origin pandas dataframe?
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 13:36:55
+____________________________________
+Question # 9: How to pass multiple words query to post request in python
+Tags: ['python', 'json', 'post']
+ Creation Date 2022-09-07 13:37:40
+____________________________________
+Question # 10: How do you pick out values from an array which were used to calculate another set of values which meet a certain condition?
+Tags: ['python']
+ Creation Date 2022-09-07 13:38:30
+____________________________________
+Question # 11: How can I code running window correlation for 20 years?
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 13:39:04
+____________________________________
+Question # 12: I cannot convert a set of images taken from a FTP to a video using FFMPEG
+Tags: ['python', 'ffmpeg', 'ftp']
+ Creation Date 2022-09-07 13:40:15
+____________________________________
+Question # 13: Ingest data from local with jupyter notebook into hdfs
+Tags: ['python', 'jupyter-notebook', 'hdfs']
+ Creation Date 2022-09-07 13:40:31
+____________________________________
+Question # 14: Pandas DateTime - convert string which can be &quot;0&quot; to datetime
+Tags: ['python', 'pandas', 'datetime', 'zero']
+ Creation Date 2022-09-07 13:40:49
+____________________________________
+Question # 15: How do I apply a condition to change the values of a list of variables? - Python
+Tags: ['python']
+ Creation Date 2022-09-07 13:42:06
+____________________________________
+Question # 16: How can I get javascript function parameters from html by python?
+Tags: ['python', 'html', 'beautifulsoup', 'python-re']
+ Creation Date 2022-09-07 13:42:21
+____________________________________
+Question # 17: scrapy Link Extractor Python Pagination
+Tags: ['python', 'pagination', 'scrapy']
+ Creation Date 2022-09-07 13:42:29
+____________________________________
+Question # 18: PL SQL: group by, drop NULL, drop duplicates, save to list
+Tags: ['python', 'sql', 'pandas', 'plsql', 'plsqldeveloper']
+ Creation Date 2022-09-07 13:47:53
+____________________________________
+Question # 19: to determine the following in python coding
+Tags: ['python']
+ Creation Date 2022-09-07 13:48:16
+____________________________________
+Question # 20: dataclass fields type shown as string when compiled in cython
+Tags: ['python', 'python-3.x', 'cython']
+ Creation Date 2022-09-07 13:48:58
+____________________________________
+Question # 21: Problem moving snake in a snake game using Turtle
+Tags: ['python', 'turtle-graphics', 'python-turtle']
+ Creation Date 2022-09-07 13:49:13
+____________________________________
+Question # 22: Optimal combination of linked-buckets
+Tags: ['python', 'algorithm', 'mathematical-optimization', 'operations-research']
+ Creation Date 2022-09-07 13:49:15
+____________________________________
+Question # 23: Manipulating items in a list, from a string then turning it back to a string
+Tags: ['python', 'string', 'list', 'data-manipulation', 'suffix']
+ Creation Date 2022-09-07 13:49:49
+____________________________________
+Question # 24: Move forward and backwards between Items in QTreeView
+Tags: ['python', 'pyqt5', 'qtreeview', 'qstandarditemmodel', 'qstandarditem']
+ Creation Date 2022-09-07 13:53:19
+____________________________________
+Question # 25: How to reach and modify child class&#39;s variables from parent class when child class is one of many Tkinter frames made visible container and tkraise()
+Tags: ['python', 'tkinter', 'inheritance', 'initialization']
+ Creation Date 2022-09-07 13:54:21
+____________________________________
+Question # 26: Python pandas how to replace zeros in a column between values with these same values
+Tags: ['python', 'pandas', 'csv']
+ Creation Date 2022-09-07 13:54:33
+____________________________________
+Question # 27: Websocket closes immediately
+Tags: ['javascript', 'python', 'sockets', 'flask', 'websocket']
+ Creation Date 2022-09-07 13:54:48
+____________________________________
+Question # 28: Why won&#39;t Racing game break when I reach 0 in python
+Tags: ['python']
+ Creation Date 2022-09-07 13:57:02
+____________________________________
+Question # 29: Python3: Get count for same dictionaries within list
+Tags: ['python', 'python-3.x', 'dictionary']
+ Creation Date 2022-09-07 14:00:05
+____________________________________
+Question # 30: Why is 7zip extraction speed constantly decreasing no matter what the original file size is?
+Tags: ['python', '7zip']
+ Creation Date 2022-09-07 14:01:52
+____________________________________
+Question # 31: Why is 7zip extraction speed constantly decreasing no matter what the original file size is?
+Tags: ['python', '7zip']
+ Creation Date 2022-09-07 14:01:52
+____________________________________
+Question # 32: binary classification deep learning high accuracy but not exactly
+Tags: ['python', 'tensorflow', 'deep-learning', 'binary']
+ Creation Date 2022-09-07 14:03:34
+____________________________________
+Question # 33: how to get the statuscallevents from twilio using python , and how can i save those events in my db
+Tags: ['python']
+ Creation Date 2022-09-07 14:06:00
+____________________________________
+Question # 34: How can I kill my docker container from the running python script?
+Tags: ['python', 'docker']
+ Creation Date 2022-09-07 14:07:33
+____________________________________
+Question # 35: on_click function assigned to Streamlit button runs before the click event in browser
+Tags: ['python', 'python-3.x', 'function', 'button', 'streamlit']
+ Creation Date 2022-09-07 14:07:43
+____________________________________
+Question # 36: Python How voxel in Matplotlib draws colors according to different values of voxels
+Tags: ['python', 'matplotlib']
+ Creation Date 2022-09-07 14:09:34
+____________________________________
+Question # 37: How can i filter bad chars in Pandas DataFrame?
+Tags: ['python', 'pandas', 'dataframe', 'filter']
+ Creation Date 2022-09-07 14:09:51
+____________________________________
+Question # 38: Specify object type in definition list input
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 14:13:07
+____________________________________
+Question # 39: when using click for python I receive a &quot;missing command&quot;?
+Tags: ['python', 'command-line', 'arguments', 'command-line-interface']
+ Creation Date 2022-09-07 14:13:50
+____________________________________
+Question # 40: Pandas merge with list add rows
+Tags: ['python', 'pandas', 'dataframe', 'date']
+ Creation Date 2022-09-07 14:14:45
+____________________________________
+Question # 41: How does dictionary size (hash table size) grow in Python?
+Tags: ['python', 'dictionary', 'hashtable']
+ Creation Date 2022-09-07 14:15:23
+____________________________________
+Question # 42: how to combine multiple methods in python?
+Tags: ['python', 'refactoring']
+ Creation Date 2022-09-07 14:17:58
+____________________________________
+Question # 43: connecting two values into dataframe pandas
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 14:19:30
+____________________________________
+Question # 44: Prioritization data from data frame with dictionary using pandas part 2
+Tags: ['python', 'pandas', 'dictionary']
+ Creation Date 2022-09-07 14:20:50
+____________________________________
+Question # 45: Why is python code compiling but not doing anything?
+Tags: ['python', 'python-3.x', 'xml']
+ Creation Date 2022-09-07 14:20:51
+____________________________________
+Question # 46: SerializerMethodField&#39;s function get_fieldname is not being called
+Tags: ['python', 'django', 'django-rest-framework']
+ Creation Date 2022-09-07 14:21:52
+____________________________________
+Question # 47: How to make a python code run on windows startup/login any option of them?
+Tags: ['python', 'startup']
+ Creation Date 2022-09-07 14:22:16
+____________________________________
+Question # 48: Issue using If statement in Python
+Tags: ['python']
+ Creation Date 2022-09-07 14:23:06
+____________________________________
+Question # 49: How can I functionally update a dataclass?
+Tags: ['python', 'python-dataclasses']
+ Creation Date 2022-09-07 14:24:03
+____________________________________
+Question # 50: How to fix data storing?
+Tags: ['python', 'pandas', 'youtube-api', 'youtube-data-api']
+ Creation Date 2022-09-07 14:24:11
+____________________________________
+Question # 51: Trouble using tables in settings case
+Tags: ['python']
+ Creation Date 2022-09-07 14:25:42
+____________________________________
+Question # 52: Catching AssertionError and TimeoutError in a single line
+Tags: ['python', 'playwright', 'playwright-python']
+ Creation Date 2022-09-07 14:26:11
+____________________________________
+Question # 53: Reading two values in one column (in a csv) with pandas
+Tags: ['python', 'pandas', 'dataframe', 'csv', 'matplotlib']
+ Creation Date 2022-09-07 14:26:42
+____________________________________
+Question # 54: Python pyOpenssl, encryption/decryption how to use this module properly? python 3
+Tags: ['python', 'encryption']
+ Creation Date 2022-09-07 14:29:51
+____________________________________
+Question # 55: removing __all__ from django form.errors
+Tags: ['python', 'django']
+ Creation Date 2022-09-07 14:30:25
+____________________________________
+Question # 56: How can I test how many times a function is called?
+Tags: ['python', 'unit-testing']
+ Creation Date 2022-09-07 14:31:36
+____________________________________
+Question # 57: Add 2 different python scripts in one python script. Taking user Input
+Tags: ['python', 'pandas', 'dataframe', 'data-science']
+ Creation Date 2022-09-07 14:32:02
+____________________________________
+Question # 58: Releasing a web page of photo detector ML model
+Tags: ['python', 'web']
+ Creation Date 2022-09-07 14:32:09
+____________________________________
+Question # 59: Why is it slow to display the result in Jupyter Lab despite fast execution time?
+Tags: ['python', 'performance', 'kernel', 'jupyter-lab']
+ Creation Date 2022-09-07 14:32:41
+____________________________________
+Question # 60: Python socket io client does&#39;n accept connection but node client does
+Tags: ['python', 'node.js', 'socket.io']
+ Creation Date 2022-09-07 14:32:59
+____________________________________
+Question # 61: How can I allow builtin types to subtract custom class?
+Tags: ['python']
+ Creation Date 2022-09-07 14:34:18
+____________________________________
+Question # 62: How to solve the error &#39;_CM_KEY_NODE&quot; has no attribute SubKeyLists&#39;?
+Tags: ['python', 'kali-linux']
+ Creation Date 2022-09-07 14:34:43
+____________________________________
+Question # 63: Accessing SDL_Surface Pixel Array in pySDL2
+Tags: ['python', 'sdl-2', 'pysdl2', 'python-moderngl']
+ Creation Date 2022-09-07 14:35:44
+____________________________________
+Question # 64: Text aside and below an image in pyqt5
+Tags: ['python', 'pyqt5']
+ Creation Date 2022-09-07 14:37:34
+____________________________________
+Question # 65: Pandas selecting rows in a second dataframe based on overlapping dates in the first dataframe?
+Tags: ['python', 'pandas', 'data-science']
+ Creation Date 2022-09-07 14:38:56
+____________________________________
+Question # 66: Pandas inner Join does not give complete results
+Tags: ['python', 'pandas', 'dataframe', 'csv']
+ Creation Date 2022-09-07 14:39:49
+____________________________________
+Question # 67: Unable to fetch all SQS messages by Lambda(Python)
+Tags: ['python', 'amazon-web-services', 'aws-lambda', 'amazon-sqs']
+ Creation Date 2022-09-07 14:39:55
+____________________________________
+Question # 68: How to space items?
+Tags: ['python', 'operating-system', 'file-writing']
+ Creation Date 2022-09-07 14:41:54
+____________________________________
+Question # 69: Displaying window of unhandled exception after closing python .exe program
+Tags: ['python', 'runtime.exec']
+ Creation Date 2022-09-07 14:43:55
+____________________________________
+Question # 70: build of python toasts do not show
+Tags: ['python', 'windows', 'toast']
+ Creation Date 2022-09-07 14:44:06
+____________________________________
+Question # 71: How to convert subfolders to tar files that are older than 30 days in Python?
+Tags: ['python', 'shell', 'script']
+ Creation Date 2022-09-07 14:45:18
+____________________________________
+Question # 72: Sum of digit of a number using recursion in python
+Tags: ['python', 'recursion', 'sum-of-digits']
+ Creation Date 2022-09-07 14:45:18
+____________________________________
+Question # 73: Use ImportSchemaGen to put the curated schema to ML Metadata
+Tags: ['python', 'tensorflow', 'machine-learning']
+ Creation Date 2022-09-07 14:46:01
+____________________________________
+Question # 74: Changing column names in python pivot
+Tags: ['python', 'pandas', 'pivot']
+ Creation Date 2022-09-07 14:46:12
+____________________________________
+Question # 75: Simulate Mouse in Python doesn&#39;t work (Windows)
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 14:46:18
+____________________________________
+Question # 76: Exit button doesnt work after executeing ping command but does before doing so (tkinter)
+Tags: ['python', 'tkinter']
+ Creation Date 2022-09-07 14:47:38
+____________________________________
+Question # 77: How to copy cell value in to next row cell if it is not exist?
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 14:48:15
+____________________________________
+Question # 78: How does Python keep track of changes in class attributes?
+Tags: ['python', 'oop', 'python-class']
+ Creation Date 2022-09-07 14:49:06
+____________________________________
+Question # 79: Python item type Changes Randomly?
+Tags: ['python', 'python-3.x', 'list', 'tuples', 'assert']
+ Creation Date 2022-09-07 14:50:18
+____________________________________
+Question # 80: How should I modify this function in order to use it with arrays as arguments and to give arrays as return?
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 14:50:32
+____________________________________
+Question # 81: Python Pandas print column name if it match reference column
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 14:52:08
+____________________________________
+Question # 82: Criar snapshot no esxi
+Tags: ['python']
+ Creation Date 2022-09-07 14:52:21
+____________________________________
+Question # 83: How do I add square root to my calculator
+Tags: ['python', 'math', 'calculator']
+ Creation Date 2022-09-07 14:52:36
+____________________________________
+Question # 84: I&#39;ve implemented this code, which should make from a dictionary a queue (priority queue). How can I make this code more efficient and better look
+Tags: ['python', 'algorithm', 'functional-programming', 'queue']
+ Creation Date 2022-09-07 14:54:50
+____________________________________
+Question # 85: How can I change display of visible value in django form?
+Tags: ['python', 'django']
+ Creation Date 2022-09-07 14:56:58
+____________________________________
+Question # 86: tuple index out of range but it shouldnt be like that
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 14:57:37
+____________________________________
+Question # 87: How to properly Install mediapipe on Raspberry Pi
+Tags: ['python', 'raspberry-pi', 'computer-vision', 'raspberry-pi4', 'mediapipe']
+ Creation Date 2022-09-07 14:57:45
+____________________________________
+Question # 88: The problem of coding with Python in VBA Excel program
+Tags: ['python', 'excel', 'xlsx']
+ Creation Date 2022-09-07 14:58:06
+____________________________________
+Question # 89: Cant figure out what is wrong with this piece of code
+Tags: ['python', 'indentation']
+ Creation Date 2022-09-07 14:58:19
+____________________________________
+Question # 90: how can def. a function for plotting
+Tags: ['python', 'pandas', 'dataframe', 'function', 'plotly']
+ Creation Date 2022-09-07 14:58:30
+____________________________________
+Question # 91: TimedRotatingFileHandler : stop rolling over at midnight if script is running
+Tags: ['python', 'logging']
+ Creation Date 2022-09-07 15:00:16
+____________________________________
+Question # 92: The support of IR v6 has been removed from the product
+Tags: ['python', 'opencv', 'machine-learning', 'face-recognition', 'openvino']
+ Creation Date 2022-09-07 15:03:35
+____________________________________
+Question # 93: I&#39;m getting a &quot;ModuleNotFound&quot; error for a user defined file that is very much in the same path
+Tags: ['python', 'path']
+ Creation Date 2022-09-07 15:05:06
+____________________________________
+Question # 94: Perform query with foreignkey django
+Tags: ['python', 'python-3.x', 'django', 'django-models', 'django-forms']
+ Creation Date 2022-09-07 15:05:25
+____________________________________
+Question # 95: Order 2d points based on distance from each other
+Tags: ['python', 'numpy', 'geometry']
+ Creation Date 2022-09-07 15:06:01
+____________________________________
+Question # 96: Why printing (len(list(nums)) twice have different result in this code in python?
+Tags: ['python', 'filter']
+ Creation Date 2022-09-07 15:06:11
+____________________________________
+Question # 97: Sometimes my code doesn&#39;t work and sometimes it does
+Tags: ['python']
+ Creation Date 2022-09-07 15:07:20
+____________________________________
+Question # 98: Connect remotly to PostgreSQL PgAdmin4 server but no pg_hba.conf entry for host
+Tags: ['python', 'postgresql', 'psycopg2', 'pgadmin-4']
+ Creation Date 2022-09-07 15:07:26
+____________________________________
+Question # 99: Trio + PyQT5 in one program?
+Tags: ['python', 'pyqt5', 'python-trio']
+ Creation Date 2022-09-07 15:09:22
+____________________________________
+Question # 100: Remove Avro type keys from JSON message format
+Tags: ['python', 'avro', 'fastavro']
+ Creation Date 2022-09-07 15:09:46
+____________________________________
+Question # 101: How to make label in st.multiselect bigger/bolder
+Tags: ['python', 'markdown', 'streamlit']
+ Creation Date 2022-09-07 15:10:27
+____________________________________
+Question # 102: Combining identical keys in a dictionary
+Tags: ['python', 'python-3.x', 'dictionary']
+ Creation Date 2022-09-07 15:11:32
+____________________________________
+Question # 103: PyQt5 Remove percentage label from QProgressDialog
+Tags: ['python', 'pyqt', 'pyqt5']
+ Creation Date 2022-09-07 15:11:47
+____________________________________
+Question # 104: ValueError: No gradients provided for any variable when using tf.optimizers.Adam.minimize method
+Tags: ['python', 'tensorflow', 'machine-learning', 'neural-network', 'minimize']
+ Creation Date 2022-09-07 15:12:18
+____________________________________
+Question # 105: Error by getting selected option using Selenium Web Driver with Python
+Tags: ['python', 'selenium']
+ Creation Date 2022-09-07 15:13:00
+____________________________________
+Question # 106: Change the imported libraries of a saved pickle
+Tags: ['python', 'pickle']
+ Creation Date 2022-09-07 15:13:27
+____________________________________
+Question # 107: How to clear keyboard.read_event()?
+Tags: ['python', 'keyboard', 'pyside6']
+ Creation Date 2022-09-07 15:16:39
+____________________________________
+Question # 108: Running the following Python script parallel
+Tags: ['python', 'parallel-processing']
+ Creation Date 2022-09-07 15:18:16
+____________________________________
+Question # 109: How to replace PyTorch model layer&#39;s tensor with another layer of same shape in Huggingface model?
+Tags: ['python', 'deep-learning', 'pytorch', 'huggingface-transformers']
+ Creation Date 2022-09-07 15:18:27
+____________________________________
+Question # 110: PIL throws FileNotFoundError: [Errno 2] No such file or directory
+Tags: ['python', 'tkinter', 'python-imaging-library']
+ Creation Date 2022-09-07 15:19:00
+____________________________________
+Question # 111: Store argparse input to use as variable
+Tags: ['python', 'argparse']
+ Creation Date 2022-09-07 15:19:02
+____________________________________
+Question # 112: Python and openyxl how to arrange columns of an excel the same way another excel columns are displayed
+Tags: ['python', 'openpyxl']
+ Creation Date 2022-09-07 15:19:10
+____________________________________
+Question # 113: Flask run with argument
+Tags: ['python', 'flask']
+ Creation Date 2022-09-07 15:19:29
+____________________________________
+Question # 114: Issue with class declaration in python. Two classes with fields of each other
+Tags: ['python', 'class']
+ Creation Date 2022-09-07 15:21:28
+____________________________________
+Question # 115: How to move the checkbox to the left side of the column?
+Tags: ['python', 'tkinter', 'checkbox', 'justify']
+ Creation Date 2022-09-07 15:23:48
+____________________________________
+Question # 116: Iterate a dataframe depending on the value of one column
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 15:23:56
+____________________________________
+Question # 117: Find tuple within tuple as a dictionary key
+Tags: ['python', 'function', 'dictionary', 'tuples']
+ Creation Date 2022-09-07 15:24:08
+____________________________________
+Question # 118: How to use datetime index from a Series to modify another series?
+Tags: ['python', 'pandas', 'datetime', 'series', 'datetimeindex']
+ Creation Date 2022-09-07 15:26:10
+____________________________________
+Question # 119: Grouped dates are 30 days behind for Plotly Express line graphs
+Tags: ['python', 'plotly', 'line']
+ Creation Date 2022-09-07 15:27:06
+____________________________________
+Question # 120: how to split data content from files with a few pattern (python)
+Tags: ['python']
+ Creation Date 2022-09-07 15:28:07
+____________________________________
+Question # 121: How to find what is the issue in my 50gb file?
+Tags: ['python', 'sql', 'amazon-web-services', 'amazon-athena']
+ Creation Date 2022-09-07 15:28:13
+____________________________________
+Question # 122: Replace Enclosed Alphanumerics in Python
+Tags: ['python', 'string', 'unicode', 'ascii']
+ Creation Date 2022-09-07 15:28:31
+____________________________________
+Question # 123: Airflow Dynamic Task Mapping ValueError
+Tags: ['python', 'amazon-s3', 'airflow']
+ Creation Date 2022-09-07 15:28:54
+____________________________________
+Question # 124: I am trying to interface IMU data like acceleration, roll, pitch etc using python based GUI
+Tags: ['python', 'user-interface', 'imu']
+ Creation Date 2022-09-07 15:29:06
+____________________________________
+Question # 125: Can I mix both sqlalchemy and sqlmodel as ORM
+Tags: ['python', 'sqlalchemy', 'sqlmodel']
+ Creation Date 2022-09-07 15:29:48
+____________________________________
+Question # 126: Remove quote marks in object column
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 15:30:05
+____________________________________
+Question # 127: suds-requests deprecated for the latest python version 3.10 for getting SSRS subscription details
+Tags: ['python', 'ssrs-2008', 'suds']
+ Creation Date 2022-09-07 15:30:22
+____________________________________
+Question # 128: Multiply column values with another column values of two dataframes
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 15:30:22
+____________________________________
+Question # 129: How to combine multiple seperated rows into a common table
+Tags: ['python']
+ Creation Date 2022-09-07 15:30:55
+____________________________________
+Question # 130: Merge two rows of same dataframe in pandas
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 15:31:22
+____________________________________
+Question # 131: Mock object without fields and methods
+Tags: ['python']
+ Creation Date 2022-09-07 15:31:49
+____________________________________
+Question # 132: Raising dimension of an array using np.squeeze equivalent
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 15:32:09
+____________________________________
+Question # 133: Movement multi person pose estimation does not import
+Tags: ['python', 'tensorflow', 'import', 'pose']
+ Creation Date 2022-09-07 15:32:18
+____________________________________
+Question # 134: Dataframe check next months data and return specific column
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 15:32:27
+____________________________________
+Question # 135: Why python do not allow sequence indexes to overflow
+Tags: ['python', 'indexing', 'iterable']
+ Creation Date 2022-09-07 15:32:27
+____________________________________
+Question # 136: How To Get Pygame Image Location Within Frame
+Tags: ['python', 'image', 'pygame', 'position']
+ Creation Date 2022-09-07 15:32:36
+____________________________________
+Question # 137: Beginner need help fixing a currency tracker
+Tags: ['python', 'tkinter']
+ Creation Date 2022-09-07 15:33:03
+____________________________________
+Question # 138: Combine multiple columns into one category column using the column names as value label
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 15:33:21
+____________________________________
+Question # 139: Pytorch,Matrix multiplication of tensors always reports an error, where a tensor contains the variable，why and how to fix it?
+Tags: ['python', 'pytorch']
+ Creation Date 2022-09-07 15:34:27
+____________________________________
+Question # 140: Multiple Lines in errorbar Matplotlib
+Tags: ['python', 'matplotlib', 'graph', 'data-science']
+ Creation Date 2022-09-07 15:35:51
+____________________________________
+Question # 141: Replace specials characters in column
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 15:37:16
+____________________________________
+Question # 142: Dealing with scope in a recursive Python function
+Tags: ['python', 'json', 'recursion', 'scope']
+ Creation Date 2022-09-07 15:38:38
+____________________________________
+Question # 143: insert unmatched records to another database connection
+Tags: ['python', 'sqlite']
+ Creation Date 2022-09-07 15:39:42
+____________________________________
+Question # 144: Can I use the docxcompose python library with s3 bucket files. It does what I want it to do locally with merging docx files but I need that on lambda
+Tags: ['python', 'amazon-s3', 'aws-lambda', 'boto3', 'python-docx']
+ Creation Date 2022-09-07 15:39:48
+____________________________________
+Question # 145: Why do I get an empty list when I web-scrape customer reviews from Amazon(using BeautifulSoup)?
+Tags: ['python', 'html', 'web-scraping', 'beautifulsoup', 'python-requests-html']
+ Creation Date 2022-09-07 15:41:16
+____________________________________
+Question # 146: Python How to get Browser to send more get requests to website
+Tags: ['python', 'html', 'selenium-webdriver', 'browser', 'get-request']
+ Creation Date 2022-09-07 15:42:27
+____________________________________
+Question # 147: Why the conditional statement like &quot;if regressor:&quot; causes an error?
+Tags: ['python', 'if-statement', 'scikit-learn']
+ Creation Date 2022-09-07 15:42:40
+____________________________________
+Question # 148: it should iterate till that number and follow condition and I don&#39;t want it should return None for 16th iteration
+Tags: ['python', 'for-loop']
+ Creation Date 2022-09-07 15:43:38
+____________________________________
+Question # 149: Pycharm does not show recommendations
+Tags: ['python', 'pycharm']
+ Creation Date 2022-09-07 15:46:17
+____________________________________
+Question # 150: &#39;model_lib_v2&#39; from &#39;object_detection&#39; can not be imported
+Tags: ['python', 'tensorflow', 'object-detection']
+ Creation Date 2022-09-07 15:48:00
+____________________________________
+Question # 151: Discord.py How can I make the bot only register the first user reaction?
+Tags: ['python', 'discord.py']
+ Creation Date 2022-09-07 15:54:10
+____________________________________
+Question # 152: How to set a float variable as offset in panda&#39;s rolling window?
+Tags: ['python', 'pandas', 'dataframe', 'time-series', 'rolling-computation']
+ Creation Date 2022-09-07 15:54:28
+____________________________________
+Question # 153: Sum over one level of multiindex in assignment to new column
+Tags: ['python', 'pandas', 'for-loop', 'vectorization']
+ Creation Date 2022-09-07 15:54:40
+____________________________________
+Question # 154: how to redirect to another page and call a python function when clicking on submit button
+Tags: ['python', 'html', 'forms', 'flask']
+ Creation Date 2022-09-07 15:54:42
+____________________________________
+Question # 155: how I convert 3D array to 2D without get error cannot reshape
+Tags: ['python', 'numpy', 'multidimensional-array', 'reshape']
+ Creation Date 2022-09-07 15:54:44
+____________________________________
+Question # 156: how to put html as a string in python in variable
+Tags: ['python', 'web-scraping']
+ Creation Date 2022-09-07 15:55:07
+____________________________________
+Question # 157: How to iterate and fill a dataframe with Scrapped values with Selenium
+Tags: ['python', 'pandas', 'selenium', 'selenium-webdriver', 'web-scraping']
+ Creation Date 2022-09-07 15:56:39
+____________________________________
+Question # 158: Extract key-value pairs as a tuple from nested json with python
+Tags: ['python', 'json']
+ Creation Date 2022-09-07 15:56:58
+____________________________________
+Question # 159: Creating multiple circles in a domain to represent multiple solid obstacles using python np. fromfunction command
+Tags: ['python']
+ Creation Date 2022-09-07 15:57:51
+____________________________________
+Question # 160: Tkinter - mainloop and after not working as expected (kanyewest quote training)
+Tags: ['python', 'tkinter']
+ Creation Date 2022-09-07 16:00:22
+____________________________________
+Question # 161: Python list manipulation differs based on initialization
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 16:01:15
+____________________________________
+Question # 162: Why parse_dates in pandas seems to be working for some columns and not the others
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 16:02:06
+____________________________________
+Question # 163: How to calculate corpus blue score
+Tags: ['python', 'tensorflow', 'nlp', 'bert-language-model']
+ Creation Date 2022-09-07 16:04:30
+____________________________________
+Question # 164: Cannot read csv file in pandas read_csv
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 16:06:31
+____________________________________
+Question # 165: How to create new process inside the condition of processes&#39; target function?
+Tags: ['python', 'multithreading', 'process']
+ Creation Date 2022-09-07 16:07:59
+____________________________________
+Question # 166: Detect if the scanner button is pressed in Python
+Tags: ['python', 'usb', 'serial-communication']
+ Creation Date 2022-09-07 16:08:23
+____________________________________
+Question # 167: How to loop pagination API to get full data all page?
+Tags: ['python', 'google-colaboratory', 'google-sheets-api']
+ Creation Date 2022-09-07 16:09:30
+____________________________________
+Question # 168: Convert this curl -F cmdline to python with request
+Tags: ['python', 'curl']
+ Creation Date 2022-09-07 16:11:38
+____________________________________
+Question # 169: Function calling using class() not working when used to add video files with mkvmerge, FFmpeg
+Tags: ['python', 'ffmpeg', 'mkv']
+ Creation Date 2022-09-07 16:13:47
+____________________________________
+Question # 170: Masking layer instead of attention_mask parameter in MultiHeadAttention
+Tags: ['python', 'tensorflow', 'keras', 'transformer-model']
+ Creation Date 2022-09-07 16:14:12
+____________________________________
+Question # 171: How to decode this &quot;%E3%83%9C&quot; string in python?
+Tags: ['python', 'string', 'utf-8', 'decode', 'encode']
+ Creation Date 2022-09-07 16:14:36
+____________________________________
+Question # 172: How to loop over unique dates in a pandas dataframe producing new dataframes in each iteration?
+Tags: ['python', 'pandas', 'dataframe', 'loops']
+ Creation Date 2022-09-07 16:15:19
+____________________________________
+Question # 173: Unable to send emails on ssh server using python script, though the same code works fine on local machine-email client outlook
+Tags: ['python', 'python-3.x', 'email', 'email-attachments']
+ Creation Date 2022-09-07 16:18:29
+____________________________________
+Question # 174: How to open tk window in another thread (Calling Tcl from different apartment)
+Tags: ['python', 'tkinter']
+ Creation Date 2022-09-07 16:20:11
+____________________________________
+Question # 175: 2d arrays pattern recognition in Excel or Python
+Tags: ['python', 'arrays', 'excel', 'matrix', '2d']
+ Creation Date 2022-09-07 16:20:29
+____________________________________
+Question # 176: FCM-Django ModuleNotFoundError: No module named &#39;requests.adapters&#39;
+Tags: ['python', 'django', 'firebase']
+ Creation Date 2022-09-07 16:23:30
+____________________________________
+Question # 177: Apply Function on List
+Tags: ['python', 'django', 'list', 'django-views', 'django-queryset']
+ Creation Date 2022-09-07 16:24:24
+____________________________________
+Question # 178: Pandas filtering based on minimum data occurrences across multiple columns
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 16:24:57
+____________________________________
+Question # 179: PARAMS in the Keras Model
+Tags: ['python', 'tensorflow', 'machine-learning', 'keras', 'deep-learning']
+ Creation Date 2022-09-07 16:25:46
+____________________________________
+Question # 180: How do I get access token from website automaticaly using python?
+Tags: ['python', 'web-scraping', 'post', 'access-token']
+ Creation Date 2022-09-07 16:25:53
+____________________________________
+Question # 181: Converting working code into a method, which will take dataframe columns values as input and would return 0 and 1 as values of a new column
+Tags: ['python', 'pandas', 'dataframe', 'methods']
+ Creation Date 2022-09-07 16:26:21
+____________________________________
+Question # 182: How do I merge fonts in Python (fontTools.merge() throws error)
+Tags: ['python', 'fonts', 'ttx-fonttools']
+ Creation Date 2022-09-07 16:27:05
+____________________________________
+Question # 183: Calculate unique data jumps using Python
+Tags: ['python', 'dataframe']
+ Creation Date 2022-09-07 16:27:08
+____________________________________
+Question # 184: Delete rows from pd.DataFrame based on a defenition given in a second DF
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 16:27:29
+____________________________________
+Question # 185: Multithreading slowing down HTTP requests
+Tags: ['python', 'multithreading', 'python-requests']
+ Creation Date 2022-09-07 16:27:40
+____________________________________
+Question # 186: Determining the mean absolute error and mean square error of the predicted vs. actual values from OLS regression analysis
+Tags: ['python', 'linear-regression']
+ Creation Date 2022-09-07 16:28:14
+____________________________________
+Question # 187: how can I extract the table data and converting its in a dataframe from the the website. &quot;https://www.npci.org.in/what-we-do/upi/product-statistics&quot;
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 16:28:31
+____________________________________
+Question # 188: Exception has occurred: ModuleNotFoundError No module named
+Tags: ['python']
+ Creation Date 2022-09-07 16:30:58
+____________________________________
+Question # 189: How to import a file out from path in python?
+Tags: ['python', 'import', 'libraries']
+ Creation Date 2022-09-07 16:32:04
+____________________________________
+Question # 190: Oracle table column json data to csv in python
+Tags: ['python', 'python-3.x', 'mongodb', 'python-2.7', 'pymongo-3.x']
+ Creation Date 2022-09-07 16:32:14
+____________________________________
+Question # 191: Expecting value :line 2 colum 1(char 1) in reddownloader python
+Tags: ['python']
+ Creation Date 2022-09-07 16:35:34
+____________________________________
+Question # 192: How can I get the number of likes from my database to use in webpage?
+Tags: ['javascript', 'python', 'flask', 'sqlalchemy']
+ Creation Date 2022-09-07 16:35:58
+____________________________________
+Question # 193: Obtaining a TypeError in the following code (for Leetcode 46. Permutations) but can&#39;t see the issue
+Tags: ['python', 'permutation']
+ Creation Date 2022-09-07 16:38:14
+____________________________________
+Question # 194: How to extract data from a text file and add it to a list?
+Tags: ['python', 'data-extraction']
+ Creation Date 2022-09-07 16:38:34
+____________________________________
+Question # 195: Python iterate over each 100 elements
+Tags: ['python']
+ Creation Date 2022-09-07 16:39:07
+____________________________________
+Question # 196: How do you integrate an array with limits?
+Tags: ['python']
+ Creation Date 2022-09-07 16:42:35
+____________________________________
+Question # 197: python smtp library Network is unreachable error
+Tags: ['python', 'smtp', 'smtplib']
+ Creation Date 2022-09-07 16:43:08
+____________________________________
+Question # 198: FastAPI GET request converting some query parameters to a request body
+Tags: ['python', 'python-3.x', 'fastapi', 'pydantic']
+ Creation Date 2022-09-07 16:44:33
+____________________________________
+Question # 199: explode 2 columns with different number of values in their cell
+Tags: ['python', 'filter']
+ Creation Date 2022-09-07 16:45:44
+____________________________________
+Question # 200: Selecting according to labels in a TensorFlow generator
+Tags: ['python', 'deep-learning', 'generator', 'tensorflow2.0', 'tf.keras']
+ Creation Date 2022-09-07 16:45:55
+____________________________________
+Question # 201: Display ForeingKey field in serializer
+Tags: ['python', 'fastapi', 'pydantic', 'tortoise-orm']
+ Creation Date 2022-09-07 16:46:08
+____________________________________
+Question # 202: How to implement Learning-NEAT algorithm in python for classification?
+Tags: ['python', 'machine-learning', 'classification', 'genetic-algorithm', 'neat']
+ Creation Date 2022-09-07 16:47:30
+____________________________________
+Question # 203: Automate folder creation in Azure DevOps?
+Tags: ['python', 'python-3.x', 'azure', 'azure-devops', 'automation']
+ Creation Date 2022-09-07 16:47:50
+____________________________________
+Question # 204: i cant understand line no 2 and openList[index] value
+Tags: ['python']
+ Creation Date 2022-09-07 16:48:51
+____________________________________
+Question # 205: why append make 3D array?
+Tags: ['python', 'arrays', 'for-loop', 'multidimensional-array', 'append']
+ Creation Date 2022-09-07 16:49:18
+____________________________________
+Question # 206: ARDUINO / PYTHON / SERIAL
+Tags: ['python', 'python-3.x', 'arduino', 'serial-port']
+ Creation Date 2022-09-07 16:50:03
+____________________________________
+Question # 207: pandas - mask works on whole dataframe but on selected columns?
+Tags: ['python', 'python-3.x', 'pandas', 'in-place']
+ Creation Date 2022-09-07 16:50:04
+____________________________________
+Question # 208: Scrapy bypassing web site cache
+Tags: ['python', 'web-scraping', 'scrapy']
+ Creation Date 2022-09-07 16:50:57
+____________________________________
+Question # 209: Deepcopy keras model with custom loss function (custom objects)
+Tags: ['python', 'tensorflow', 'keras', 'deep-learning', 'data-science']
+ Creation Date 2022-09-07 16:52:42
+____________________________________
+Question # 210: Correlation matrix between two dataframes per month
+Tags: ['python', 'pandas', 'dataframe', 'correlation']
+ Creation Date 2022-09-07 16:52:59
+____________________________________
+Question # 211: I am getting python2 failed errors on npm install some error not solve
+Tags: ['python', 'node.js', 'npm']
+ Creation Date 2022-09-07 16:53:39
+____________________________________
+Question # 212: Python - how to take the max length from a value of dictionary? Without lambda
+Tags: ['python', 'dictionary', 'key', 'max']
+ Creation Date 2022-09-07 16:55:36
+____________________________________
+Question # 213: How to add column for every month and generate number i.e. 1,2,3..etc
+Tags: ['python', 'pandas', 'loops']
+ Creation Date 2022-09-07 16:57:45
+____________________________________
+Question # 214: Rotate 2D axis around the central x axis
+Tags: ['python', 'rotation', 'axis']
+ Creation Date 2022-09-07 17:00:04
+____________________________________
+Question # 215: asfreq in pandas returns an empty dataframe
+Tags: ['python', 'pandas', 'datetime']
+ Creation Date 2022-09-07 17:00:53
+____________________________________
+Question # 216: Rename classes in bar plots unstacked from group by
+Tags: ['python', 'pandas', 'matplotlib', 'group-by', 'multi-index']
+ Creation Date 2022-09-07 17:02:16
+____________________________________
+Question # 217: Changing the name of a value in each loop - python
+Tags: ['python', 'string', 'loops', 'for-loop']
+ Creation Date 2022-09-07 17:05:55
+____________________________________
+Question # 218: Converting python script logic to SQL redshift logic
+Tags: ['python', 'sql', 'list']
+ Creation Date 2022-09-07 17:06:30
+____________________________________
+Question # 219: How to clear the output everytime run code in VSCode? I&#39;m using terminal in VSCode to run
+Tags: ['python', 'visual-studio-code']
+ Creation Date 2022-09-07 17:06:36
+____________________________________
+Question # 220: Running python job on Flink cluster hangs
+Tags: ['python', 'apache-flink']
+ Creation Date 2022-09-07 17:06:43
+____________________________________
+Question # 221: Python/numpy/tensorflow execution time of function increases over time
+Tags: ['python', 'numpy', 'tensorflow', 'optimization', 'runtime']
+ Creation Date 2022-09-07 17:06:48
+____________________________________
+Question # 222: AttributeError: &#39;RandomAgent&#39; object has no attribute &#39;update_parameters&#39; Error
+Tags: ['python', 'machine-learning', 'reinforcement-learning', 'q-learning']
+ Creation Date 2022-09-07 17:08:52
+____________________________________
+Question # 223: Which descriptor implementation is correct?
+Tags: ['python', 'documentation', 'descriptor']
+ Creation Date 2022-09-07 17:08:53
+____________________________________
+Question # 224: Download only instagram photos with instaloader
+Tags: ['python', 'download', 'instagram', 'photo', 'instaloader']
+ Creation Date 2022-09-07 17:09:05
+____________________________________
+Question # 225: Too many positional arguments for function call error
+Tags: ['python', 'visual-studio', 'position']
+ Creation Date 2022-09-07 17:09:33
+____________________________________
+Question # 226: No module named azure.common
+Tags: ['python', 'python-3.x', 'azure', 'ansible', 'ansible-2.x']
+ Creation Date 2022-09-07 17:11:08
+____________________________________
+Question # 227: Pandas - Fastest way to iterate 2 dataframes?
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 17:11:35
+____________________________________
+Question # 228: How do I called upon variables from previous functions and ensure they are capturing the proper values?
+Tags: ['python']
+ Creation Date 2022-09-07 17:13:41
+____________________________________
+Question # 229: Set values for a column in a pandas Dataframe using values from a different row
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 17:14:40
+____________________________________
+Question # 230: Round date to nearest hour multiple pandas columns
+Tags: ['python', 'pandas', 'datetime', 'apply', 'rounding']
+ Creation Date 2022-09-07 17:15:39
+____________________________________
+Question # 231: Kth Smallest Element in multiple sorted arrays
+Tags: ['python', 'algorithm', 'sorting']
+ Creation Date 2022-09-07 17:15:43
+____________________________________
+Question # 232: Syntax Error on the E in &quot;ELSE&quot;, no explanation?
+Tags: ['python']
+ Creation Date 2022-09-07 17:15:44
+____________________________________
+Question # 233: I don&#39;t understand why the function set in apscheduler is unintentionally executed 3 times in Django
+Tags: ['python', 'django', 'apscheduler']
+ Creation Date 2022-09-07 17:15:59
+____________________________________
+Question # 234: Cannot read f1-score from csv file
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 17:16:05
+____________________________________
+Question # 235: Python certificate verify failed:
+Tags: ['python']
+ Creation Date 2022-09-07 17:17:19
+____________________________________
+Question # 236: Why are simple comparisons slowing down my Python code?
+Tags: ['python', 'python-3.x', 'performance']
+ Creation Date 2022-09-07 17:19:46
+____________________________________
+Question # 237: algorithm for re-aligning warped box
+Tags: ['python', 'computer-vision']
+ Creation Date 2022-09-07 17:19:50
+____________________________________
+Question # 238: Is there a way for me turn json data into positional arguments and their respective values in python?
+Tags: ['python', 'json', 'keyword-argument']
+ Creation Date 2022-09-07 17:23:30
+____________________________________
+Question # 239: How do I pin the Python version for a project?
+Tags: ['python', 'requirements.txt']
+ Creation Date 2022-09-07 17:26:00
+____________________________________
+Question # 240: Python error when using an object from a script in a function imported from another script
+Tags: ['python', 'python-import', 'python-module']
+ Creation Date 2022-09-07 17:26:23
+____________________________________
+Question # 241: Parse string that defines a user-specified format for a file name in Python?
+Tags: ['python', 'string', 'parsing']
+ Creation Date 2022-09-07 17:26:57
+____________________________________
+Question # 242: Inserting rows of varying lengths into SQLite3 Database with Python
+Tags: ['python', 'sqlite']
+ Creation Date 2022-09-07 17:27:20
+____________________________________
+Question # 243: how to put value of for loop in list?
+Tags: ['python', 'list']
+ Creation Date 2022-09-07 17:28:26
+____________________________________
+Question # 244: How can I downlaod URL with key, value pairs on scrapy shell
+Tags: ['python', 'web', 'scrapy']
+ Creation Date 2022-09-07 17:29:11
+____________________________________
+Question # 245: What is the best way to identify what matches the text based on list of dictionaries
+Tags: ['python', 'python-3.x', 'list']
+ Creation Date 2022-09-07 17:30:36
+____________________________________
+Question # 246: How can I add items row for row in a csv file
+Tags: ['python', 'csv', 'csvwriter']
+ Creation Date 2022-09-07 17:32:50
+____________________________________
+Question # 247: Scale deployment with python client in Kubernetes
+Tags: ['python', 'kubernetes', 'autoscaling', 'kubernetes-python-client']
+ Creation Date 2022-09-07 17:32:50
+____________________________________
+Question # 248: OSError: no library called &quot;cairo-2&quot; was found (from Custom_Widgets import ProjectMaker)
+Tags: ['python', 'cmd']
+ Creation Date 2022-09-07 17:34:17
+____________________________________
+Question # 249: Continue running code if one aspect of a try block fails, but still raise the exception
+Tags: ['python', 'function', 'error-handling', 'try-except']
+ Creation Date 2022-09-07 17:34:29
+____________________________________
+Question # 250: Python: how to open files from another directory git repo (locally cloned)?
+Tags: ['python']
+ Creation Date 2022-09-07 17:36:40
+____________________________________
+Question # 251: How do I read a http-chunked HEX response from a web api?
+Tags: ['python', 'python-requests', 'hex', 'http-chunked']
+ Creation Date 2022-09-07 17:37:49
+____________________________________
+Question # 252: how to format the data to dicitem properly using robotframework seleniumlibrary?
+Tags: ['python', 'selenium-webdriver', 'robotframework']
+ Creation Date 2022-09-07 17:39:29
+____________________________________
+Question # 253: Use SpatialDE to evaluate my anndata.h5ad but no result
+Tags: ['python', 'spatial', 'scanpy']
+ Creation Date 2022-09-07 17:40:56
+____________________________________
+Question # 254: Using arithmetic on numpy structured array elements?
+Tags: ['python', 'numpy', 'structured-array']
+ Creation Date 2022-09-07 17:41:58
+____________________________________
+Question # 255: Call to Python lambda function without parenthesis
+Tags: ['python', 'lambda', 'properties']
+ Creation Date 2022-09-07 17:42:16
+____________________________________
+Question # 256: Type hinting for h5py File object?
+Tags: ['python', 'python-typing', 'h5py']
+ Creation Date 2022-09-07 17:42:58
+____________________________________
+Question # 257: How to calculate the Successive Month difference with Groupby in pandas
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 17:44:55
+____________________________________
+Question # 258: Executing the auth token once per run - Locust
+Tags: ['python', 'load-testing', 'locust']
+ Creation Date 2022-09-07 17:46:32
+____________________________________
+Question # 259: list indices must be integers or slices, not str error coming
+Tags: ['python']
+ Creation Date 2022-09-07 17:46:48
+____________________________________
+Question # 260: Say I have two objects (v1,v2) created from Vector Class. If v3 = -v1-v2, how can I find v3 using def __sub__(self, other): method?
+Tags: ['python', 'python-3.x', 'oop']
+ Creation Date 2022-09-07 17:48:03
+____________________________________
+Question # 261: Parsing character as NaN when reading Excel doesn&#39;t work as expected
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 17:49:56
+____________________________________
+Question # 262: How to stop consuming messages from RabbitMQ using Python?
+Tags: ['python', 'python-3.x', 'rabbitmq']
+ Creation Date 2022-09-07 17:50:11
+____________________________________
+Question # 263: Save pandas DataFrame as an excel-lookalike png file
+Tags: ['python', 'excel', 'pandas']
+ Creation Date 2022-09-07 17:51:25
+____________________________________
+Question # 264: Why does pandas.DataFrame.merge return dataframes with different column types than the input dataframes?
+Tags: ['python', 'pandas', 'dataframe', 'merge']
+ Creation Date 2022-09-07 17:51:34
+____________________________________
+Question # 265: Calculate sum of columns from nested Python dictionary
+Tags: ['python', 'dictionary', 'sum']
+ Creation Date 2022-09-07 17:53:55
+____________________________________
+Question # 266: training loss and validation loss remain equals but do not go down
+Tags: ['python', 'tensorflow', 'keras', 'dropout']
+ Creation Date 2022-09-07 17:55:35
+____________________________________
+Question # 267: how to increase the waiting time for a response from a discord bot
+Tags: ['python', 'python-3.x', 'discord', 'discord.py']
+ Creation Date 2022-09-07 17:57:36
+____________________________________
+Question # 268: Issue running advertools crawler
+Tags: ['python']
+ Creation Date 2022-09-07 17:58:13
+____________________________________
+Question # 269: Clustering Lists of Words (Python)
+Tags: ['python', 'machine-learning', 'cluster-analysis', 'language-model']
+ Creation Date 2022-09-07 18:00:15
+____________________________________
+Question # 270: Pandas long format of success table
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 18:01:22
+____________________________________
+Question # 271: I need to write this program in Python but I&#39;m having trouble with &#39;&#39;for-loops&#39;&#39;
+Tags: ['python', 'for-loop']
+ Creation Date 2022-09-07 18:01:53
+____________________________________
+Question # 272: Writing data to a text file in Python
+Tags: ['python', 'csv']
+ Creation Date 2022-09-07 18:02:06
+____________________________________
+Question # 273: Python unittest: `unittest.TestLoader().discover` when passed to a suite(addTests) add multiple suites instead of one suite with many tests
+Tags: ['python', 'python-3.x', 'unit-testing']
+ Creation Date 2022-09-07 18:04:07
+____________________________________
+Question # 274: Stack two numpy array of two different shape
+Tags: ['python', 'arrays', 'list', 'numpy', 'dictionary']
+ Creation Date 2022-09-07 18:04:14
+____________________________________
+Question # 275: Pick up question names from Word file using python
+Tags: ['python', 'ms-word', 'power-automate']
+ Creation Date 2022-09-07 18:04:35
+____________________________________
+Question # 276: Optimize if and elif statement in python
+Tags: ['python', 'if-statement']
+ Creation Date 2022-09-07 18:04:43
+____________________________________
+Question # 277: Retrieving items in a loop
+Tags: ['python', 'loops', 'python-requests']
+ Creation Date 2022-09-07 18:04:44
+____________________________________
+Question # 278: Add/delete static arp entry with SNMP
+Tags: ['python', 'snmp', 'arp']
+ Creation Date 2022-09-07 18:05:51
+____________________________________
+Question # 279: How can i modify my python code to loop through all 64 product ASIN at once
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 18:06:01
+____________________________________
+Question # 280: DJANGO Invalid file path or buffer object type: &lt;class &#39;django.db.models.query.QuerySet&#39;&gt;
+Tags: ['python', 'django', 'django-models']
+ Creation Date 2022-09-07 18:06:31
+____________________________________
+Question # 281: Is there a bug in Python 3.8 datetime with DST transitions?
+Tags: ['python', 'datetime', 'timezone', 'dst', 'timedelta']
+ Creation Date 2022-09-07 18:06:34
+____________________________________
+Question # 282: Need precision out to 25th decimal, Python keeps rounding down when computing
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 18:07:35
+____________________________________
+Question # 283: Create a fast filter with a custom function on a numpy array
+Tags: ['python', 'numpy', 'cython', 'scikit-image']
+ Creation Date 2022-09-07 18:08:11
+____________________________________
+Question # 284: Detect both images using cv2 template matching
+Tags: ['python', 'opencv', 'image-processing', 'computer-vision', 'object-detection']
+ Creation Date 2022-09-07 18:08:25
+____________________________________
+Question # 285: Concat pandas dataframes in Python with different row size without getting NaN values
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 18:09:00
+____________________________________
+Question # 286: How can I avoid (too many values to show) problem in dash_pivottable?
+Tags: ['python', 'pivot-table', 'plotly-dash']
+ Creation Date 2022-09-07 18:09:35
+____________________________________
+Question # 287: How can I measure the memory required to run a Jupyter notebook?
+Tags: ['python', 'memory', 'jupyter-notebook', 'resources']
+ Creation Date 2022-09-07 18:09:39
+____________________________________
+Question # 288: Risk Matrix plot
+Tags: ['python', 'pandas', 'seaborn', 'heatmap']
+ Creation Date 2022-09-07 18:10:27
+____________________________________
+Question # 289: Poetry - Add windows shared drive as source for python package
+Tags: ['python', 'python-poetry', 'poetry']
+ Creation Date 2022-09-07 18:10:39
+____________________________________
+Question # 290: How to create lazy class variables?
+Tags: ['python']
+ Creation Date 2022-09-07 18:11:36
+____________________________________
+Question # 291: changing the type of variables when they are defined with Model.addVars() in Gurobi Python
+Tags: ['python', 'types', 'var', 'gurobi']
+ Creation Date 2022-09-07 18:11:45
+____________________________________
+Question # 292: How to schedule a BackgroundScheduler job to trigger just 5 mins later (after the app has been started) for the first time?
+Tags: ['python', 'python-3.x', 'apscheduler']
+ Creation Date 2022-09-07 18:11:52
+____________________________________
+Question # 293: How to check type of namedtuple defined within a different scope
+Tags: ['python', 'scope', 'namedtuple']
+ Creation Date 2022-09-07 18:12:13
+____________________________________
+Question # 294: How do I make an list that can be read as either uppercase or lowercase
+Tags: ['python', 'arrays', 'python-3.x']
+ Creation Date 2022-09-07 18:12:35
+____________________________________
+Question # 295: Add a file in Gitlab project repository by Python
+Tags: ['python', 'gitlab', 'python-gitlab']
+ Creation Date 2022-09-07 18:12:49
+____________________________________
+Question # 296: How to get top posts of year 2022 in reddit using psaw/praw python?
+Tags: ['python', 'praw']
+ Creation Date 2022-09-07 18:12:58
+____________________________________
+Question # 297: Python - Pandas DF Sumproduct in a loop
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 18:13:04
+____________________________________
+Question # 298: How to read selected text in python
+Tags: ['python', 'python-3.x', 'pyttsx3']
+ Creation Date 2022-09-07 18:14:21
+____________________________________
+Question # 299: On change of OptionMenu in a for loop
+Tags: ['python', 'tkinter']
+ Creation Date 2022-09-07 18:14:28
+____________________________________
+Question # 300: How to solve ImportError with pytest and python
+Tags: ['python', 'pytest', 'python-import']
+ Creation Date 2022-09-07 18:15:45
+____________________________________
+Question # 301: Problem installing buildozer dependencies
+Tags: ['python', 'android', 'kivy', 'buildozer']
+ Creation Date 2022-09-07 18:15:46
+____________________________________
+Question # 302: I&#39;m getting an error called module not found
+Tags: ['python', 'bots', 'telegram']
+ Creation Date 2022-09-07 18:17:05
+____________________________________
+Question # 303: Globals between files in python
+Tags: ['python', 'global-variables']
+ Creation Date 2022-09-07 18:17:49
+____________________________________
+Question # 304: Discard partial timeperiods when downsampling in pandas
+Tags: ['python', 'pandas', 'datetime']
+ Creation Date 2022-09-07 18:18:29
+____________________________________
+Question # 305: Can you use Squish for Android with other IDEs?
+Tags: ['python', 'qt', 'squish']
+ Creation Date 2022-09-07 18:19:17
+____________________________________
+Question # 306: python execute if statement if value matches any elements of a list
+Tags: ['python', 'for-loop', 'if-statement']
+ Creation Date 2022-09-07 18:21:49
+____________________________________
+Question # 307: Alternative to on pre enter in python
+Tags: ['python', 'android', 'kiwi']
+ Creation Date 2022-09-07 18:22:08
+____________________________________
+Question # 308: Custom loss function gave me nan value
+Tags: ['python', 'tensorflow', 'keras', 'deep-learning']
+ Creation Date 2022-09-07 18:22:43
+____________________________________
+Question # 309: How to solve vlc playing Youtube video lagging issue?
+Tags: ['python', 'video-streaming', 'vlc', 'libvlc', 'python-vlc']
+ Creation Date 2022-09-07 18:23:30
+____________________________________
+Question # 310: How can I change Windows 11 theme (theme, NOT wallpaper) using Python?
+Tags: ['python', 'python-3.x', 'windows', 'windows-11']
+ Creation Date 2022-09-07 18:23:33
+____________________________________
+Question # 311: Ebay Item Description Scrape
+Tags: ['python', 'python-3.x', 'beautifulsoup']
+ Creation Date 2022-09-07 18:24:00
+____________________________________
+Question # 312: Draw box-plot type plot
+Tags: ['python', 'matplotlib']
+ Creation Date 2022-09-07 18:26:07
+____________________________________
+Question # 313: Regex pattern in Str.contains()
+Tags: ['python', 'string', 'contains']
+ Creation Date 2022-09-07 18:26:26
+____________________________________
+Question # 314: count number of elements in a list inside a dataframe
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 18:26:37
+____________________________________
+Question # 315: unable to find correct XPATH for selenium drag and drop
+Tags: ['python', 'selenium', 'selenium-webdriver', 'selenium-chromedriver']
+ Creation Date 2022-09-07 18:28:03
+____________________________________
+Question # 316: Replace function only works on strings and not substrings
+Tags: ['python', 'pandas', 'dataframe', 'replace']
+ Creation Date 2022-09-07 18:28:03
+____________________________________
+Question # 317: How to only print the 4th link + how to save all the links
+Tags: ['python', 'string']
+ Creation Date 2022-09-07 18:28:18
+____________________________________
+Question # 318: Rewriting lambda without nested if-else condition to avoid Sonarlint Cognitive Complexity issues in Python
+Tags: ['python', 'if-statement', 'sonarlint', 'sonarlint-vs', 'cognitive-complexity']
+ Creation Date 2022-09-07 18:30:31
+____________________________________
+Question # 319: Selenium Python - How to manage to get past cookie consent window
+Tags: ['python', 'selenium', 'cookies']
+ Creation Date 2022-09-07 18:31:46
+____________________________________
+Question # 320: How to get log\history\last-merge of file?
+Tags: ['python', 'git', 'github', 'github3.py']
+ Creation Date 2022-09-07 18:32:41
+____________________________________
+Question # 321: Filter Django rest framework get request by foreign key (MultipleObjectsReturned)
+Tags: ['python', 'django', 'django-rest-framework']
+ Creation Date 2022-09-07 18:34:33
+____________________________________
+Question # 322: How can I make this code shorter using __init__?
+Tags: ['python', 'python-3.x', 'function', 'class', 'init']
+ Creation Date 2022-09-07 18:35:49
+____________________________________
+Question # 323: Python MySQL Connector sending correct command, but nothing happening
+Tags: ['python', 'mysql', 'mysql-connector']
+ Creation Date 2022-09-07 18:35:56
+____________________________________
+Question # 324: Unable to Catch Exception and Raise Error in Python
+Tags: ['python', 'exception', 'error-handling', 'try-catch']
+ Creation Date 2022-09-07 18:37:16
+____________________________________
+Question # 325: Pytorch DDP join without backward
+Tags: ['python', 'machine-learning', 'pytorch', 'distributed-computing']
+ Creation Date 2022-09-07 18:38:28
+____________________________________
+Question # 326: Migrating MySQL to SQLite for Django Site
+Tags: ['python', 'sql', 'django', 'heroku']
+ Creation Date 2022-09-07 18:38:53
+____________________________________
+Question # 327: How can I add a new column to a dataframe that adds to the dates in another column?
+Tags: ['python', 'excel', 'pandas', 'numpy']
+ Creation Date 2022-09-07 18:39:30
+____________________________________
+Question # 328: In linux system Bash not found python how can i solve this problem?
+Tags: ['python', 'windows', 'kali-linux']
+ Creation Date 2022-09-07 18:40:53
+____________________________________
+Question # 329: How to get every string permutation where each letter is from a different string
+Tags: ['python', 'python-3.x', 'string', 'permutation']
+ Creation Date 2022-09-07 18:40:58
+____________________________________
+Question # 330: How to remove redundant elements from a JSON string in Python
+Tags: ['python', 'json', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 18:41:41
+____________________________________
+Question # 331: python dictionary to json
+Tags: ['python', 'json', 'python-3.x', 'dictionary']
+ Creation Date 2022-09-07 18:42:28
+____________________________________
+Question # 332: Convert strings with periods to uppercase - Python
+Tags: ['python', 'string', 'uppercase', 'data-wrangling']
+ Creation Date 2022-09-07 18:42:36
+____________________________________
+Question # 333: Filtering values using a for loop
+Tags: ['python']
+ Creation Date 2022-09-07 18:42:38
+____________________________________
+Question # 334: Python on Mac: Is it safe to set OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES globally?
+Tags: ['python', 'macos', 'multiprocessing']
+ Creation Date 2022-09-07 18:42:44
+____________________________________
+Question # 335: Replacing &quot;ReLU&quot; with &quot;ReLU6&quot; for Guided GradCAM visualization
+Tags: ['python', 'tensorflow', 'machine-learning', 'deep-learning', 'activation-function']
+ Creation Date 2022-09-07 18:43:54
+____________________________________
+Question # 336: Complete the code to make a multiplication table
+Tags: ['python']
+ Creation Date 2022-09-07 18:44:27
+____________________________________
+Question # 337: how to fetch all the file names which came on particular day?
+Tags: ['python', 'pyspark', 'azure-databricks']
+ Creation Date 2022-09-07 18:44:36
+____________________________________
+Question # 338: pandas and numpy: TypeError: cannot unpack non-iterable int object
+Tags: ['python', 'pandas', 'numpy', 'streamlit']
+ Creation Date 2022-09-07 18:44:44
+____________________________________
+Question # 339: &quot;for loop&quot; breaks after the &quot;if statement&quot; in it is True once
+Tags: ['python', 'loops']
+ Creation Date 2022-09-07 18:45:20
+____________________________________
+Question # 340: Is there a function in python to rename data points and then flip the column and rows
+Tags: ['python', 'pandas', 'dataframe', 'pivot-table']
+ Creation Date 2022-09-07 18:45:44
+____________________________________
+Question # 341: Multiple Json to one single json convert
+Tags: ['python', 'json', 'python-3.x']
+ Creation Date 2022-09-07 18:46:55
+____________________________________
+Question # 342: Simple excel forms and table
+Tags: ['python', 'pandas', 'pysimplegui']
+ Creation Date 2022-09-07 18:47:11
+____________________________________
+Question # 343: For loop in google colab prediction print next to the test columns
+Tags: ['python', 'google-colaboratory']
+ Creation Date 2022-09-07 18:48:01
+____________________________________
+Question # 344: Shell unable to locate poetry on macOS 12.5.1
+Tags: ['python', 'ios', 'python-poetry']
+ Creation Date 2022-09-07 18:49:38
+____________________________________
+Question # 345: Create Pivot Table with Binary Values for Word tokens(keywords)
+Tags: ['python', 'nlp', 'binary', 'pivot-table']
+ Creation Date 2022-09-07 18:51:29
+____________________________________
+Question # 346: How to pass Named Parameters in jython while invoking python program from Java
+Tags: ['python', 'java', 'jython']
+ Creation Date 2022-09-07 18:52:54
+____________________________________
+Question # 347: AttributeError: &#39;Snake&#39; object has no attribute &#39;segments&#39;
+Tags: ['python']
+ Creation Date 2022-09-07 18:53:07
+____________________________________
+Question # 348: Is it possible to use DataFrame.pct_change and retain all columns?
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 18:55:05
+____________________________________
+Question # 349: How to store output from webpage console into a python variable?
+Tags: ['javascript', 'python', 'selenium', 'web-scraping', 'console.log']
+ Creation Date 2022-09-07 18:55:32
+____________________________________
+Question # 350: Return only members from Google group
+Tags: ['python', 'google-api']
+ Creation Date 2022-09-07 18:57:05
+____________________________________
+Question # 351: Getting : single positional indexer is out-of-bounds after changing the starting limit of the parameter
+Tags: ['python', 'pandas', 'for-loop', 'iteration', 'algorithmic-trading']
+ Creation Date 2022-09-07 18:58:04
+____________________________________
+Question # 352: How to switch slider from one to one and increment or decrement slider using keyboard shortcut PyQT5?
+Tags: ['python', 'qt', 'pyqt5']
+ Creation Date 2022-09-07 18:58:48
+____________________________________
+Question # 353: Extract google sheet data to a Word template
+Tags: ['python', 'google-sheets']
+ Creation Date 2022-09-07 19:01:43
+____________________________________
+Question # 354: How to extract the substring between two variable markers in python?
+Tags: ['python', 'python-re']
+ Creation Date 2022-09-07 19:02:09
+____________________________________
+Question # 355: Pandas DataFrame: Based on a string in a row of col &#39;C&#39;, look that value up in col &#39;A&#39;, if found return the value of col &#39;B&#39; for that matched row
+Tags: ['python', 'pandas', 'dataframe', 'merge', 'lookup']
+ Creation Date 2022-09-07 19:02:24
+____________________________________
+Question # 356: ActiveMQ Stomp Python client listener creating extraneous consumers
+Tags: ['python', 'queue', 'activemq', 'listener', 'stomp']
+ Creation Date 2022-09-07 19:03:27
+____________________________________
+Question # 357: Fast conversion of Pandas DataFrame to key-&gt;row presentation
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 19:04:09
+____________________________________
+Question # 358: How do i ask for the datatype of the &quot;geometry&quot; field in a geojson dict?
+Tags: ['python', 'geojson']
+ Creation Date 2022-09-07 19:05:53
+____________________________________
+Question # 359: Generating noise to create adversarial images
+Tags: ['python', 'numpy', 'pytorch', 'mathematical-optimization', 'adversarial-attack']
+ Creation Date 2022-09-07 19:06:01
+____________________________________
+Question # 360: Python creating binary zip file
+Tags: ['python', 'csv', 'file', 'binary', 'zip']
+ Creation Date 2022-09-07 19:07:29
+____________________________________
+Question # 361: How to remove the common elements by comparing both lists in python
+Tags: ['python']
+ Creation Date 2022-09-07 19:07:35
+____________________________________
+Question # 362: How to append list item to the return function
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 19:08:43
+____________________________________
+Question # 363: Is there any method in python for this question?
+Tags: ['python']
+ Creation Date 2022-09-07 19:08:47
+____________________________________
+Question # 364: OR Tool not working with importing distance matrix from google sheet
+Tags: ['python', 'pandas', 'or-tools', 'vehicle-routing']
+ Creation Date 2022-09-07 19:09:29
+____________________________________
+Question # 365: Convert Integers of different columns date and time to datetime python
+Tags: ['python', 'pandas', 'datetime', 'python-datetime']
+ Creation Date 2022-09-07 19:10:17
+____________________________________
+Question # 366: json_normalise issue when &quot;record_path&quot; variable uses nested data &amp; &quot;meta&quot; variable has nested data, works fine without nested data for &quot;record_path&quot;
+Tags: ['python', 'json', 'json-normalize']
+ Creation Date 2022-09-07 19:10:23
+____________________________________
+Question # 367: String pattern in Python
+Tags: ['python', 'string', 'pattern-matching']
+ Creation Date 2022-09-07 19:10:48
+____________________________________
+Question # 368: Python GUI Framework for Raspberry PI SPI Display
+Tags: ['python', 'user-interface', 'raspberry-pi', 'spi']
+ Creation Date 2022-09-07 19:11:27
+____________________________________
+Question # 369: Why isn&#39;t Excel recognizing the apostrophe as a special character and disappearing?
+Tags: ['python', 'excel', 'pandas']
+ Creation Date 2022-09-07 19:12:01
+____________________________________
+Question # 370: Not able to play sounds with pygame
+Tags: ['python', 'pygame', 'mixer']
+ Creation Date 2022-09-07 19:12:27
+____________________________________
+Question # 371: Convert IP address to integer in dask dataframe
+Tags: ['python', 'pandas', 'dask']
+ Creation Date 2022-09-07 19:12:54
+____________________________________
+Question # 372: How i add another list in json python
+Tags: ['python']
+ Creation Date 2022-09-07 19:15:34
+____________________________________
+Question # 373: TypeError: Incorrect type of self (must be &#39;DescriptorMatcher&#39; or its derivative) with ORB_create()
+Tags: ['python', 'opencv', 'homography', 'orb', 'overlapping-matches']
+ Creation Date 2022-09-07 19:16:59
+____________________________________
+Question # 374: I get a type error when trying to run a code but it goes away when I just give a random argument. Can someone tell me why?
+Tags: ['python', 'class-method']
+ Creation Date 2022-09-07 19:20:37
+____________________________________
+Question # 375: Replace all NaN value using the the value of another table
+Tags: ['python', 'pandas', 'fillna']
+ Creation Date 2022-09-07 19:23:49
+____________________________________
+Question # 376: Resolve Django/DRF ImageField URL from F() function
+Tags: ['python', 'django', 'django-rest-framework']
+ Creation Date 2022-09-07 19:24:03
+____________________________________
+Question # 377: Where should I store variables, that fill my function arguments?
+Tags: ['python', 'class']
+ Creation Date 2022-09-07 19:26:44
+____________________________________
+Question # 378: Is it possible to define the AWS Role you want to use in the zappa_settings.json file
+Tags: ['python', 'amazon-web-services', 'aws-lambda', 'zappa']
+ Creation Date 2022-09-07 19:27:35
+____________________________________
+Question # 379: How to insert multiple rows of complex data into a dataframe in pandas?
+Tags: ['python', 'pandas', 'machine-learning']
+ Creation Date 2022-09-07 19:28:32
+____________________________________
+Question # 380: How to write Ragged tensors to TFRecords?
+Tags: ['python', 'tensorflow', 'tfrecord', 'ragged-tensors']
+ Creation Date 2022-09-07 19:29:46
+____________________________________
+Question # 381: Splitting a non delimited column and create an additional column to count which number value
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 19:29:50
+____________________________________
+Question # 382: Display an item search in ajax format from an ecommerce website
+Tags: ['python', 'ajax', 'scrapy']
+ Creation Date 2022-09-07 19:32:01
+____________________________________
+Question # 383: Stack.account returns &lt;property object at 0x0...&gt; instead of a string. Python
+Tags: ['python', 'cdk']
+ Creation Date 2022-09-07 19:33:26
+____________________________________
+Question # 384: Writing in a specific format to a txt file in Python
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 19:34:33
+____________________________________
+Question # 385: Convert dataframe to multiple dataframes based on condition
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 19:37:48
+____________________________________
+Question # 386: Exporting Dataframe from Python to Excel by Group
+Tags: ['python', 'excel', 'pandas', 'export-to-excel']
+ Creation Date 2022-09-07 19:37:58
+____________________________________
+Question # 387: value error when using 1d array for curve fitting
+Tags: ['python', 'arrays', 'scipy', 'curve-fitting', 'valueerror']
+ Creation Date 2022-09-07 19:39:05
+____________________________________
+Question # 388: I am a newbie to coding. I just want to know where I went wrong with this code
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 19:43:28
+____________________________________
+Question # 389: Unable to install pychrono with Conda
+Tags: ['python', 'anaconda', 'conda']
+ Creation Date 2022-09-07 19:44:21
+____________________________________
+Question # 390: How to extract element value using python and selenium
+Tags: ['python', 'selenium', 'web-scraping']
+ Creation Date 2022-09-07 19:44:47
+____________________________________
+Question # 391: My if and else statement keeps evaluating as false but it is true in Python
+Tags: ['python']
+ Creation Date 2022-09-07 19:44:53
+____________________________________
+Question # 392: Dependencies between attributes of 2 and more classes
+Tags: ['python', 'class', 'attributes', 'dependencies', 'self-reference']
+ Creation Date 2022-09-07 19:45:30
+____________________________________
+Question # 393: How to use generator in Python to create tuples
+Tags: ['python', 'generator']
+ Creation Date 2022-09-07 19:47:03
+____________________________________
+Question # 394: Separating a column that stores two different data types
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 19:49:57
+____________________________________
+Question # 395: Trying to open a home window after completing the login page
+Tags: ['python', 'qt', 'pyqt', 'pyqt5', 'designer']
+ Creation Date 2022-09-07 19:50:51
+____________________________________
+Question # 396: How to read last float number of binary file in Python in a fast way
+Tags: ['python', 'binaryfiles']
+ Creation Date 2022-09-07 19:51:58
+____________________________________
+Question # 397: can&#39;t open camera by index
+Tags: ['python', 'opencv', 'webcam']
+ Creation Date 2022-09-07 19:52:03
+____________________________________
+Question # 398: Python - Continue while loop even though a command is still executing inside it
+Tags: ['python', 'multithreading', 'subprocess']
+ Creation Date 2022-09-07 19:52:08
+____________________________________
+Question # 399: How does a multi-class SVC with ovo models make a prediction if there is a &quot;tie&quot; in votes?
+Tags: ['python', 'scikit-learn']
+ Creation Date 2022-09-07 19:53:46
+____________________________________
+Question # 400: Finding tendencies and patterns with SKLearn
+Tags: ['python', 'machine-learning', 'scikit-learn']
+ Creation Date 2022-09-07 19:56:55
+____________________________________
+Question # 401: In Python, how to make the user wait before pressing another key?
+Tags: ['python', 'pygame']
+ Creation Date 2022-09-07 20:01:05
+____________________________________
+Question # 402: When can&#39;t I import pytorch on Spyder without the kernel restarting?
+Tags: ['python', 'pytorch', 'anaconda', 'conda', 'spyder']
+ Creation Date 2022-09-07 20:01:43
+____________________________________
+Question # 403: PyQt5 - Switch between two QMainWindow with stacked widget
+Tags: ['python', 'python-3.x', 'pyqt', 'pyqt5', 'qt-designer']
+ Creation Date 2022-09-07 20:04:15
+____________________________________
+Question # 404: python win32com - accessing Visio Custom Stencils
+Tags: ['python', 'win32com', 'visio']
+ Creation Date 2022-09-07 20:04:26
+____________________________________
+Question # 405: Uploading a file to the //span element selenium
+Tags: ['python', 'selenium', 'selenium-webdriver']
+ Creation Date 2022-09-07 20:05:37
+____________________________________
+Question # 406: How to multiply a column based on a string in another column
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 20:11:19
+____________________________________
+Question # 407: From hours to String
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 20:11:45
+____________________________________
+Question # 408: Django annotation with reference to another table
+Tags: ['python', 'django']
+ Creation Date 2022-09-07 20:11:49
+____________________________________
+Question # 409: How to show quick fix in VSCode when using python with flake8 and mypy?
+Tags: ['python', 'visual-studio-code']
+ Creation Date 2022-09-07 20:13:43
+____________________________________
+Question # 410: Speed up aioodbc execute many
+Tags: ['python', 'sql']
+ Creation Date 2022-09-07 20:13:47
+____________________________________
+Question # 411: How is calculated quantile in numpy Lib in Python(using by Linear Method)?
+Tags: ['python', 'numpy', 'quantile']
+ Creation Date 2022-09-07 20:14:53
+____________________________________
+Question # 412: How to mock os.getenv before doing import of module where it is used?
+Tags: ['python', 'unit-testing', 'mocking']
+ Creation Date 2022-09-07 20:16:56
+____________________________________
+Question # 413: Getting error while installing python package scrapy
+Tags: ['python', 'scrapy']
+ Creation Date 2022-09-07 20:17:06
+____________________________________
+Question # 414: i want to use the data in the same page which is fetched from the integer field in python flask
+Tags: ['python', 'html', 'flask']
+ Creation Date 2022-09-07 20:17:07
+____________________________________
+Question # 415: Why does blitted text on screen have a rectangle behind it in pygame?
+Tags: ['python', 'pygame']
+ Creation Date 2022-09-07 20:20:08
+____________________________________
+Question # 416: Python Headless Chrome Slows Tests by 20x
+Tags: ['python', 'selenium', 'headless']
+ Creation Date 2022-09-07 20:21:38
+____________________________________
+Question # 417: Sort a dictionary based on the keys of another dictionary
+Tags: ['python', 'dictionary']
+ Creation Date 2022-09-07 20:22:49
+____________________________________
+Question # 418: TypeError: Argument `fetch` = None has invalid type &quot;NoneType&quot;. Cannot be None when calling Session.run() method
+Tags: ['python', 'tensorflow', 'machine-learning', 'neural-network']
+ Creation Date 2022-09-07 20:23:43
+____________________________________
+Question # 419: gaierror: [Errno 11001] getaddrinfo failed During handling of the above exception, another exception occurred:
+Tags: ['python', 'exception', 'smtp', 'smtplib']
+ Creation Date 2022-09-07 20:23:56
+____________________________________
+Question # 420: Python for loop weird behavior: stop at certain iteration for about 13s, then continue
+Tags: ['python', 'pandas', 'dataframe', 'for-loop', 'google-compute-engine']
+ Creation Date 2022-09-07 20:27:51
+____________________________________
+Question # 421: Any solution to duplication of function arguments in Python?
+Tags: ['python', 'function', 'duplicates']
+ Creation Date 2022-09-07 20:28:13
+____________________________________
+Question # 422: Django Safari Iframe Issue
+Tags: ['python', 'django', 'iframe', 'safari']
+ Creation Date 2022-09-07 20:28:24
+____________________________________
+Question # 423: Numpy structured arrays, selecting x,y pair with smallest x-value for several x,y pairs with the same y-value
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 20:28:53
+____________________________________
+Question # 424: Check if all the characters in the list elements are letters
+Tags: ['python', 'list']
+ Creation Date 2022-09-07 20:34:35
+____________________________________
+Question # 425: Why does my function just return the last coordinate-pair to my feature collection and not every singleone, how can i fix it?
+Tags: ['python']
+ Creation Date 2022-09-07 20:36:54
+____________________________________
+Question # 426: Django rest framework - Limiting get request access to only authorized user
+Tags: ['python', 'django', 'django-rest-framework']
+ Creation Date 2022-09-07 20:38:33
+____________________________________
+Question # 427: Python &#39;Implicit&#39; package handleing matrix data differently on Ubuntu vs Manjaro
+Tags: ['python', 'ubuntu', 'recommendation-engine', 'manjaro']
+ Creation Date 2022-09-07 20:39:10
+____________________________________
+Question # 428: LocalProxy.__init__() got an unexpected keyword argument &#39;unbound_message&#39;
+Tags: ['python', 'flask', 'werkzeug']
+ Creation Date 2022-09-07 20:42:10
+____________________________________
+Question # 429: How to wait for a server response without freezing the tkinter GUI
+Tags: ['python', 'tkinter', 'freeze']
+ Creation Date 2022-09-07 20:42:16
+____________________________________
+Question # 430: How to rotate log files in Python
+Tags: ['python', 'logging']
+ Creation Date 2022-09-07 20:44:03
+____________________________________
+Question # 431: Python Timing Out: WARNING:root:SKIPPED (taking more than 30 seconds)
+Tags: ['python', 'performance', 'warnings']
+ Creation Date 2022-09-07 20:49:57
+____________________________________
+Question # 432: How can we check and re ask the user to enter username if it is already taken from csv file
+Tags: ['python', 'csv']
+ Creation Date 2022-09-07 20:51:07
+____________________________________
+Question # 433: cannot reshape array of size 1766016 into shape (50,1104,1104)
+Tags: ['python', 'java', 'opencv', 'jupyter-notebook', 'jupyter']
+ Creation Date 2022-09-07 20:51:23
+____________________________________
+Question # 434: Read dataframe sequentially and change value if duplicate found above
+Tags: ['python', 'excel', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 20:51:36
+____________________________________
+Question # 435: Image Classification Face Expression
+Tags: ['python', 'tensorflow', 'keras']
+ Creation Date 2022-09-07 20:54:03
+____________________________________
+Question # 436: plotly - vline - how to make annotation appear only when hovering
+Tags: ['python', 'charts', 'plotly', 'vline']
+ Creation Date 2022-09-07 20:55:24
+____________________________________
+Question # 437: Issues with connecting python/pandas, to a Postgress DB hosted on Django Digital Ocean
+Tags: ['python', 'sql', 'django', 'sqlalchemy', 'digital-ocean']
+ Creation Date 2022-09-07 20:57:25
+____________________________________
+Question # 438: Publishing BigQuery Project on github without compromising on key.json
+Tags: ['python', 'github', 'google-bigquery', 'google-cloud-functions', 'credentials']
+ Creation Date 2022-09-07 20:57:47
+____________________________________
+Question # 439: Converting list of row and column indices to a (boolean) pandas dataframe
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 20:59:20
+____________________________________
+Question # 440: change tornado cookie secret while running
+Tags: ['python', 'cookies', 'server', 'tornado']
+ Creation Date 2022-09-07 20:59:26
+____________________________________
+Question # 441: How to share data from master thread to uWSGI threads?
+Tags: ['python', 'multithreading', 'flask', 'uwsgi']
+ Creation Date 2022-09-07 20:59:34
+____________________________________
+Question # 442: Filtering by minute with pandas
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 20:59:57
+____________________________________
+Question # 443: How to interpolate values in between points based on an step value
+Tags: ['python', 'interpolation']
+ Creation Date 2022-09-07 21:02:20
+____________________________________
+Question # 444: trying to make a statement where if a number is too high it prints a certain word
+Tags: ['python']
+ Creation Date 2022-09-07 21:03:33
+____________________________________
+Question # 445: How to read file lines starting from the line indicated with len() or from the line that contains the string value indicated
+Tags: ['python', 'list', 'file', 'for-loop']
+ Creation Date 2022-09-07 21:06:26
+____________________________________
+Question # 446: version that accepts selfbot discord.py
+Tags: ['python', 'discord']
+ Creation Date 2022-09-07 21:08:51
+____________________________________
+Question # 447: split a num list into sublists with a specific order
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 21:10:05
+____________________________________
+Question # 448: stop nginx from changing port after post request from html
+Tags: ['python', 'nginx', 'flask', 'waitress']
+ Creation Date 2022-09-07 21:10:12
+____________________________________
+Question # 449: Is it possible to create an error in the input class, or what is the difference between str and input?
+Tags: ['python', 'python-3.x', 'string', 'input']
+ Creation Date 2022-09-07 21:11:07
+____________________________________
+Question # 450: How to refresh outlook mail using python script
+Tags: ['python', 'outlook', 'win32com', 'office-automation']
+ Creation Date 2022-09-07 21:13:29
+____________________________________
+Question # 451: python webcam access opencv
+Tags: ['python', 'opencv']
+ Creation Date 2022-09-07 21:18:53
+____________________________________
+Question # 452: Calculating the Euler characteristic from an instance of scipy.spatial.Delaunay
+Tags: ['python', 'math', 'graph', 'scipy']
+ Creation Date 2022-09-07 21:19:19
+____________________________________
+Question # 453: How do I strip out only item in file for name: and it value to the right only and put it in list in Python?
+Tags: ['python']
+ Creation Date 2022-09-07 21:19:49
+____________________________________
+Question # 454: Linear regression throws ValueError and UserWarning
+Tags: ['python', 'machine-learning', 'scikit-learn', 'linear-regression']
+ Creation Date 2022-09-07 21:19:53
+____________________________________
+Question # 455: how to calculate the average of numbers and sort them in csv file in python
+Tags: ['python']
+ Creation Date 2022-09-07 21:20:32
+____________________________________
+Question # 456: Read SQL Query from csv and Load into SQL Table
+Tags: ['python', 'sql-server', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 21:22:00
+____________________________________
+Question # 457: How can i filter a given numpy array for a value and put the remaining values of the array into a new one?
+Tags: ['python', 'arrays', 'numpy', 'if-statement']
+ Creation Date 2022-09-07 21:23:20
+____________________________________
+Question # 458: Getting this error: (unicode error) &#39;unicodeescape&#39; codec can&#39;t decode bytes in position
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 21:27:07
+____________________________________
+Question # 459: Extract Excel data to a Word template
+Tags: ['python', 'excel']
+ Creation Date 2022-09-07 21:28:16
+____________________________________
+Question # 460: Is there an easy way to remove the last character in a string in python
+Tags: ['python', 'python-3.x', 'regex', 'replace']
+ Creation Date 2022-09-07 21:28:59
+____________________________________
+Question # 461: struggling to bind &quot;-&quot; key in Tkinter
+Tags: ['python', 'tkinter', 'binding']
+ Creation Date 2022-09-07 21:29:19
+____________________________________
+Question # 462: How can I split a string using a regular expression, to the left of the matching string?
+Tags: ['python', 'regex']
+ Creation Date 2022-09-07 21:31:49
+____________________________________
+Question # 463: Parse unique filenames better in python/Snakemake
+Tags: ['python', 'parsing', 'glob']
+ Creation Date 2022-09-07 21:32:47
+____________________________________
+Question # 464: Parametrize session fixture based on config option
+Tags: ['python', 'pytest']
+ Creation Date 2022-09-07 21:36:45
+____________________________________
+Question # 465: Why my other function still running went i break the loop in my main function
+Tags: ['python']
+ Creation Date 2022-09-07 21:39:38
+____________________________________
+Question # 466: Preventing script-exiting exceptions when finding JSON values that might not exist?
+Tags: ['python', 'json', 'python-requests']
+ Creation Date 2022-09-07 21:43:39
+____________________________________
+Question # 467: Unable to generate map after cleaning out data set and matching .geojson keys
+Tags: ['python', 'dictionary', 'geojson']
+ Creation Date 2022-09-07 21:45:39
+____________________________________
+Question # 468: How to print multiple indexes from a list with brackets around it?
+Tags: ['python', 'arrays', 'list', 'indexing']
+ Creation Date 2022-09-07 21:46:23
+____________________________________
+Question # 469: How to differentiate Tvec1 and Tvec2 using ArUco tags using certain IDs
+Tags: ['python', 'opencv', 'computer-vision', 'aruco']
+ Creation Date 2022-09-07 21:46:33
+____________________________________
+Question # 470: Reading through and editing csvs using for loop in python
+Tags: ['python', 'pandas', 'dataframe', 'for-loop']
+ Creation Date 2022-09-07 21:51:56
+____________________________________
+Question # 471: return and access multiple dataframes from a function
+Tags: ['python', 'pandas', 'arcgis']
+ Creation Date 2022-09-07 21:52:10
+____________________________________
+Question # 472: Python discord application command not found
+Tags: ['python', 'discord']
+ Creation Date 2022-09-07 21:53:37
+____________________________________
+Question # 473: QWebEngineView does not find some libraries which are installed
+Tags: ['python', 'pyqt5', 'qtwebengine', 'qtwebview']
+ Creation Date 2022-09-07 21:54:19
+____________________________________
+Question # 474: How to load cookies from a text file in python requests
+Tags: ['python', 'python-requests']
+ Creation Date 2022-09-07 21:56:26
+____________________________________
+Question # 475: Appending dictionaries to a list from a csv file
+Tags: ['python', 'list', 'csv', 'dictionary']
+ Creation Date 2022-09-07 21:58:26
+____________________________________
+Question # 476: Необходимо дописать код (либо что то поменять) он старый
+Tags: ['python']
+ Creation Date 2022-09-07 21:58:41
+____________________________________
+Question # 477: In Python what is element of index?
+Tags: ['python']
+ Creation Date 2022-09-07 22:01:49
+____________________________________
+Question # 478: PyBind11: AttributeError: &amp;#39;X&amp;#39; object has no attribute &amp;#39;Y&amp;#39;
+Tags: ['python', 'c++', 'ubuntu', 'pybind11']
+ Creation Date 2022-09-07 22:03:25
+____________________________________
+Question # 479: Python torch format to state_dict
+Tags: ['python', 'pytorch']
+ Creation Date 2022-09-07 22:03:40
+____________________________________
+Question # 480: smbclient python specific folder read content
+Tags: ['python', 'python-3.x']
+ Creation Date 2022-09-07 22:08:07
+____________________________________
+Question # 481: Python generate text with format mydata_hh_mm
+Tags: ['python']
+ Creation Date 2022-09-07 22:08:23
+____________________________________
+Question # 482: Assigning player names to their player number python black jack game
+Tags: ['python', 'python-3.x', 'game-development', 'blackjack']
+ Creation Date 2022-09-07 22:08:44
+____________________________________
+Question # 483: Floating point arithemtic np.ceil
+Tags: ['python', 'numpy']
+ Creation Date 2022-09-07 22:08:59
+____________________________________
+Question # 484: im working on data which is writing in python codes
+Tags: ['python', 'sql']
+ Creation Date 2022-09-07 22:11:12
+____________________________________
+Question # 485: Insert new line after each &quot;&lt;div&gt;&quot;
+Tags: ['python', 'html', 'styles']
+ Creation Date 2022-09-07 22:12:12
+____________________________________
+Question # 486: Get count of files in a folder in an s3 bucket from a python lambda function
+Tags: ['python', 'amazon-s3', 'aws-lambda', 'boto3', 'aws-sdk']
+ Creation Date 2022-09-07 22:13:07
+____________________________________
+Question # 487: Filling No Instances using Value Counts with 0 - Pandas
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 22:16:10
+____________________________________
+Question # 488: nested lists sum of depth python
+Tags: ['python', 'recursion']
+ Creation Date 2022-09-07 22:17:09
+____________________________________
+Question # 489: Sort a list of tuples based on name
+Tags: ['python']
+ Creation Date 2022-09-07 22:17:46
+____________________________________
+Question # 490: FileResponse with file opened using smart-open
+Tags: ['python', 'django', 'smart-open']
+ Creation Date 2022-09-07 22:20:04
+____________________________________
+Question # 491: Merge two multi dimention dict and only add what is missing
+Tags: ['python', 'python-3.x', 'algorithm']
+ Creation Date 2022-09-07 22:20:56
+____________________________________
+Question # 492: How to match list item with dictionary key and print k,v
+Tags: ['python', 'list', 'dictionary', 'for-loop', 'if-statement']
+ Creation Date 2022-09-07 22:23:22
+____________________________________
+Question # 493: How can I create &quot;suffixed-by-number&quot; variables in Python?
+Tags: ['python', 'arrays', 'sas']
+ Creation Date 2022-09-07 22:24:16
+____________________________________
+Question # 494: Why is this python script dash plotly express not working showing a figure?
+Tags: ['python', 'plotly-dash', 'plotly-express']
+ Creation Date 2022-09-07 22:24:34
+____________________________________
+Question # 495: Google Ads API error accesing with service account
+Tags: ['python', 'google-ads-api']
+ Creation Date 2022-09-07 22:25:37
+____________________________________
+Question # 496: How do I get the latest entries in a DataFrame up to a certain time, for a given list of column values?
+Tags: ['python', 'pandas', 'dataframe', 'data-science']
+ Creation Date 2022-09-07 22:29:36
+____________________________________
+Question # 497: AWS Boto3 Error of Malformed InstanceID when using for loop
+Tags: ['python', 'amazon-web-services', 'boto3']
+ Creation Date 2022-09-07 22:29:45
+____________________________________
+Question # 498: How can I move an email from a directory to another using python
+Tags: ['python', 'email', 'bots', 'imaplib']
+ Creation Date 2022-09-07 22:29:58
+____________________________________
+Question # 499: HTTPError 405 while scraping on web server(ssh) but works well on vs code terminal
+Tags: ['python', 'beautifulsoup', 'urllib3']
+ Creation Date 2022-09-07 22:31:43
+____________________________________
+Question # 500: Aiohttp POST request won&#39;t return correct URL
+Tags: ['python', 'post', 'aiohttp']
+ Creation Date 2022-09-07 22:34:03
+____________________________________
+Question # 501: cannot convert to datetime
+Tags: ['python', 'pandas', 'dataframe']
+ Creation Date 2022-09-07 22:35:46
+____________________________________
+Question # 502: How to check and get lines of a log file that has changed since last run?
+Tags: ['python']
+ Creation Date 2022-09-07 22:36:47
+____________________________________
+Question # 503: Set dataframe row as second header
+Tags: ['python', 'pandas', 'dataframe', 'multi-index']
+ Creation Date 2022-09-07 22:39:07
+____________________________________
+Question # 504: SqlAlchemy mapper mapped class falied to locate
+Tags: ['python', 'sqlalchemy']
+ Creation Date 2022-09-07 22:48:15
+____________________________________
+Question # 505: why do tf-agents never accept a time step from custom made environments
+Tags: ['python', 'tensorflow', 'tf-agent']
+ Creation Date 2022-09-07 22:48:30
+____________________________________
+Question # 506: Why is training this xgboost model in a subprocess not terminating?
+Tags: ['python', 'multiprocessing', 'deadlock', 'xgboost']
+ Creation Date 2022-09-07 22:49:27
+____________________________________
+Question # 507: DeepFace install on macOS M1- Error on tensor-flow dependency
+Tags: ['python', 'tensorflow', 'pyinstaller', 'deepface']
+ Creation Date 2022-09-07 22:49:56
+____________________________________
+Question # 508: Using Pandas or numpy to look up specific values in the table
+Tags: ['python', 'pandas']
+ Creation Date 2022-09-07 22:50:26
+____________________________________
+Question # 509: Sorting two plotly bar charts by column value
+Tags: ['python', 'plotly']
+ Creation Date 2022-09-07 22:50:45
+____________________________________
+Question # 510: winsound cant playSound from variable but when I enter the exaxt same string it works
+Tags: ['python', 'playsound', 'winsound']
+ Creation Date 2022-09-07 22:51:04
+____________________________________
